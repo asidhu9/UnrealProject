@@ -1,2 +1,2 @@
 # UnrealProject
-Getting to know Unreal and perhaps create a game of it
+Getting to know Unreal and create a game of it
